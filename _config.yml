@@ -3,25 +3,25 @@ title: LIUJUE Blog
 SEOTitle: 刘爵的博客 | LIUJUE Blog
 header-img: img/p2194206802-bg-desk.jpg
 email: liujue212@gmail.com
-description: "Every failure is leading towards success."
+description: "思维不会克服恐惧，但行动会。"
 keyword: "LIUJUE, LIUJUE Blog, 刘爵的博客, liujue520, 爱的人, iOS, Apple, iPhone"
 url: "http://liujue520.github.io"          # your host, for absolute URL
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "目标决定你将要成为什么！"
 sidebar-avatar: /img/bitmoji-bg-face.png   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: true
-weibo_username:     刘珏
-zhihu_username:     刘珏
+weibo_username:     2204151544
+zhihu_username:     liu-jue-15
 github_username:    刘爵
-facebook_username:  Jue Liu
+facebook_username:  profile.php?id=100005975643125
 #jianshu_username:   
-twitter_username:   刘珏
+twitter_username:   liujue1994
 
 
 
