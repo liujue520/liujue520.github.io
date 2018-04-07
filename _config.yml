@@ -1,7 +1,7 @@
 # Site settings
 title: LIUJUE Blog
 SEOTitle: 刘爵的博客 | LIUJUE Blog
-header-img: img/post-bg-desk.jpg
+header-img: p2194206802-bg-desk.jpg
 email: liujue212@gmail.com
 description: "Every failure is leading towards success."
 keyword: "LIUJUE, LIUJUE Blog, 刘爵的博客, liujue520, 爱的人, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/liujue520/liujue520.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/bitmoji-bg-face.png   # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
