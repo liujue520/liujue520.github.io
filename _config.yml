@@ -1,13 +1,23 @@
 # Site settings
+<<<<<<< HEAD
 title: LIUJUE Blog
 SEOTitle: 刘爵的博客 | LIUJUE Blog
-header-img: /img/p2194206802-bg-desk.jpg
+header-img: img/p2194206802-bg-desk.jpg
 email: liujue212@gmail.com
 description: "Every failure is leading towards success."
 keyword: "LIUJUE, LIUJUE Blog, 刘爵的博客, liujue520, 爱的人, iOS, Apple, iPhone"
 url: "http://liujue520.github.io"          # your host, for absolute URL
+=======
+title: BY Blog
+SEOTitle: 柏荧的博客 | BY Blog
+header-img: img/post-bg-desk.jpg
+email: qiubaiying@gmail.com
+description: "Every failure is leading towards success."
+keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+url: "http://qiubaiying.github.io"          # your host, for absolute URL
+>>>>>>> parent of e19ac31... Update _config.yml
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liujue520/liujue520.github.io" # you code repository
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
